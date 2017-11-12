@@ -1,8 +1,8 @@
 language: csharp
 solution: sudokuSolver/sudokuSolver.sln
-install:
+before_install:
   - sudo apt-get install nunit-console
+before_script:
   - nuget restore sudokuSolver/sudokuSolver.sln
-script:
-  - xbuild sudokuSolver/sudokuSolver.sln
-  - nunit-console sudokuSolver/Tests/bin/Debug/SomeLibrary.Tests.dll
+after_script:
+  - nunit-console sudokuSolver/packages/NUnit.3.8.1/lib/net45/nunit.framework.dll
