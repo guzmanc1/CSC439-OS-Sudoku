@@ -1,5 +1,6 @@
 language: csharp
-solution: sudokuSolver/sudokuSolver.sln
+script:
+  - xbuild /p:Configuration=Debug sudokuSolver/sudokuSolver.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
