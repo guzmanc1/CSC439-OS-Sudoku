@@ -1,7 +1,7 @@
-﻿namespace sudokuSolver
-{
-    using NUnit.Framework;
+using NUnit.Framework;
 
+namespace sudokuSolver
+{
     [TestFixture]
     public class SudokuTest
     {
