@@ -28,3 +28,15 @@ Z:/Users/Liam/Documents/github/Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudoku
 /Users/carlosguzman/Projects/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.csproj.CoreCompileInputs.cache
 /Users/carlosguzman/Projects/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.exe
 /Users/carlosguzman/Projects/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.pdb
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/bin/Debug/sudokuSolver.exe.config
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/bin/Debug/sudokuSolver.exe
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/bin/Debug/sudokuSolver.pdb
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/bin/Debug/nunit.framework.dll
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/bin/Debug/nunit.framework.xml
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.csprojResolveAssemblyReference.cache
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.Form1.resources
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.Properties.Resources.resources
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.csproj.GenerateResource.Cache
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.csproj.CoreCompileInputs.cache
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.exe
+/Users/name/Projects/guzmanc1/CSC439-OS-Sudoku/sudokuSolver/sudokuSolver/obj/Debug/sudokuSolver.pdb
