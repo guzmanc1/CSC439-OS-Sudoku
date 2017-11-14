@@ -1,6 +1,8 @@
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using System;
+using sudokuSolver;
 
-namespace sudokuSolver
+namespace Test
 {
     [TestFixture]
     public class SudokuTest
@@ -13,7 +15,7 @@ namespace sudokuSolver
             string answer = "";
             source.Randomize(out answer, out puzzle);
 
-            Assert.AreEqual("",answer);
+            Assert.AreEqual("", answer);
             Assert.AreEqual(150, 150);
         }
     }
