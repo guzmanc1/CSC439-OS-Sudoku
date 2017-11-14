@@ -6,3 +6,5 @@ before_script:
   - nuget restore sudokuSolver/sudokuSolver.sln
 after_script:
   - nunit-console sudokuSolver/Test/bin/Debug/Test.dll
+after_success:
+    - bash <(curl -s https://codecov.io/bash)
